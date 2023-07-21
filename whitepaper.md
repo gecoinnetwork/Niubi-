@@ -1,91 +1,91 @@
-引言：
-NIUBI是发行在ARB区块链上的社交牛必的治理代币：赋予每个人展示最"牛逼"一面的机会
 
-在我们每个人的人生旅程中，都会有那么一刻，我们做出了令人惊叹的壮举，或是面对巨大的困难时超越自我。这个时刻是我们最自豪、最振奋人心的时刻，是我们真正展现出自己最牛逼一面的时刻。
+Introduction:
+NIUBI is the governance token of social Niubi issued on the BSC blockchain: giving everyone the opportunity to show the most "beautiful" side
 
-正因为如此，我们创建了 NIUBI 代币，这个名称灵感来自于中文的"牛逼"，代表着超越平凡、无与伦比的能力和勇气。NIUBI 代币是我们社交 DApp 中的治理代币，旨在激励和奖励社区中的每个用户分享他们最牛逼的一件事。
+There comes a moment in each of our life journeys when we perform amazing feats or outdo ourselves in the face of overwhelming odds. This moment is our proudest, most inspiring moment, the moment when we really show our best self.
 
-我们相信每个人都是独一无二的，都有自己的故事、成就和经历。而社交平台的真正价值在于提供一个安全、支持性的环境，让每个人自信地展示他们在生活中最引人注目的时刻。
+It is for this reason that we have created the NB token, a name inspired by the Chinese word for "Niubi", representing unparalleled ability and courage beyond the ordinary. NB token is the governance token in our social DApp, designed to motivate and reward every user in the community to share their best thing.
 
-NIUBI 代币的使命是鼓励用户积极参与社交平台，并奖励他们勇于分享他们的故事。通过这个平台，用户可以发布文字、图片、视频或其他形式的内容，展示他们的成就、创意、挑战和突破。社区成员可以通过点赞、评论或其他方式对这些故事进行互动和支持。
+We believe that each person is unique, with their own stories, accomplishments and experiences. And the real value of social platforms is in providing a safe, supportive environment where everyone can confidently showcase their most compelling moments in life.
 
-通过NIUBI代币，我们希望创造一个充满鼓励、正能量和互动的社交环境。每个用户都有机会在这里成为他们自己的英雄，鼓励他人，并与其他社区成员分享他们的故事。我们相信，当人们积极分享和欣赏彼此的最牛逼时刻时，我们的社区将充满活力、创造力和共同成长。
+The mission of NB Token is to encourage users to actively participate in social platforms and reward them for being brave enough to share their stories. Through this platform, users can post text, pictures, videos or other forms of content to showcase their achievements, ideas, challenges and breakthroughs. Community members can interact and support these stories by liking, commenting, or otherwise.
 
-二：代币用途和功能
+Through NB tokens, we hope to create a social environment full of encouragement, positive energy and interaction. Every user has the opportunity to be their own hero here, to encourage others, and to share their stories with other community members. We believe that when people actively share and appreciate each other's best moments, our community is energized, creative and grows together.
 
-NIUBI 代币在社交 DApp 中具有多种用途和功能，旨在激励用户参与、奖励贡献和增强社区的互动性。以下是 NIUBI 代币的一些主要用途和功能：
+Two: Token usage and functions
 
-1. 社交支付：NIUBI 代币可以作为社交平台内部的支付工具。用户可以使用代币进行购买和支付社交平台上的商品、服务或虚拟物品。代币支付的便捷性和安全性为用户提供了更好的消费体验。
+NB tokens have multiple uses and functions in social DApps designed to motivate user participation, reward contributions and enhance community interactivity. Below are some of the main uses and functions of NB tokens:
 
-2. 用户激励：为了鼓励用户积极参与社交活动和贡献有价值的内容，NIUBI 代币被用作激励机制。用户可以通过发布优质内容、获得点赞、评论、分享等方式来获得代币奖励。这种激励机制可以促进用户参与度和社区活跃度的提升。
+1. Social payment: NB token can be used as a payment tool within the social platform. Users can use tokens to make purchases and pay for goods, services or virtual items on social platforms. The convenience and security of token payment provide users with a better consumption experience.
 
-3. 社区治理：NIUBI 代币还具有治理功能，代币持有者可以参与社区的决策过程。代币持有者可以提出提案、投票和表决，影响社交 DApp 平台的发展方向、新功能的实施以及规则的制定。这种去中心化的治理机制为社区成员提供了参与和影响社区运营的机会。
+2. User Incentives: In order to encourage users to actively participate in social activities and contribute valuable content, NB tokens are used as an incentive mechanism. Users can get token rewards by publishing high-quality content, getting likes, comments, sharing, etc. This incentive mechanism can promote user participation and community activity.
 
-4. 交易手续费：在社交 DApp 平台上进行交易时，NIUBI 代币可以用于支付交易手续费。这种机制可以降低交易成本，并提供更高的效率和可扩展性。
+3. Community governance: NB tokens also have a governance function, and token holders can participate in the decision-making process of the community. Token holders can put forward proposals, votes and votes to influence the development direction of the social DApp platform, the implementation of new functions and the formulation of rules. This decentralized governance mechanism provides opportunities for community members to participate and influence community operations.
 
-5. 会员特权：NIUBI 代币持有者可以享受特殊的会员特权和福利。这可能包括独家活动、折扣优惠、高级功能和服务的访问权限等，增加了代币的附加价值和吸引力。
+4. Transaction fee: When conducting transactions on the social DApp platform, NB tokens can be used to pay transaction fees. This mechanism can reduce transaction costs and provide greater efficiency and scalability.
 
-通过以上的用途和功能，NIUBI 代币为社交 DApp 提供了丰富的应用场景和用户体验。它鼓励用户参与社区、分享最牛逼的事情，并通过奖励机制和治理参与来建立积极、互动和有价值的社交生态系统。
+5. Member privileges: NB token holders can enjoy special membership privileges and benefits. This may include exclusive events, discounted offers, access to premium features and services, etc., adding to the added value and attractiveness of the Token.
 
-三：治理机制
+Through the above uses and functions, NB tokens provide rich application scenarios and user experience for social DApps. It encourages users to participate in the community, share the best things, and build an active, interactive and valuable social ecosystem through reward mechanisms and governance participation.
 
-NIUBI 代币的治理机制旨在赋予社区成员参与社交 DApp 平台决策的能力，确保社区的发展和运营符合共识和用户需求。以下是 NIUBI 代币的治理机制的关键方面：
+Three: Governance Mechanism
 
-1. 提案流程：任何持有一定数量的 NIUBI 代币的社区成员都可以提出治理提案。提案可以涉及平台功能的改进、新功能的添加、规则的制定或其他与社区发展相关的议题。提案提交后，需要经过一定的审查和验证程序，以确保提案的合理性和可行性。
+The governance mechanism of the NB token is designed to empower community members to participate in the decision-making of the social DApp platform to ensure that the development and operation of the community conform to consensus and user needs. The following are the key aspects of the governance mechanism of the NB token:
 
-2. 投票权和代币权重：每个 NIUBI 代币持有者都有投票权，可以参与对提案的投票。投票的结果将根据持有代币的数量进行加权，较多代币持有者的意见具有更大的影响力。这样的机制确保了代币持有者的投票权与其对平台的贡献和利益相关性相匹配。
+1. Proposal process: Any community member who holds a certain amount of NB tokens can propose governance proposals. Proposals can involve improvements to platform functionality, addition of new features, formulation of rules, or other issues related to community development. After the proposal is submitted, it needs to go through certain review and verification procedures to ensure the rationality and feasibility of the proposal.
 
-3. 社区参与和讨论：在治理过程中，社区成员可以参与讨论，提出意见和建议。这可以通过论坛、社交媒体或专门的讨论平台进行。社区的广泛参与和透明度有助于建立共识和增加决策的合法性。
+2. Voting rights and token weights: Every NB token holder has voting rights and can participate in voting on proposals. The results of the vote will be weighted according to the number of tokens held, with the opinions of more token holders having greater influence. Such a mechanism ensures that the voting rights of token holders are matched with their contribution and stake in the platform.
 
-4. 实施和监督：治理提案通过投票达成共识后，将由开发团队或相应的治理机构负责实施。同时，社区成员也有监督和评估的权利，以确保治理决策的透明度和执行力。
+3. Community participation and discussion: During the governance process, community members can participate in discussions and put forward opinions and suggestions. This can be done through forums, social media or dedicated discussion platforms. Wide community participation and transparency help build consensus and increase the legitimacy of decision-making.
 
-5. 治理升级和发展：治理机制应该具备灵活性和可升级性，以适应社区的变化和发展需求。定期的治理升级和改进可以通过社区投票或其他机制来推动，确保代币持有者对平台发展方向的影响力。
+4. Implementation and supervision: After the governance proposal reaches a consensus through voting, it will be implemented by the development team or the corresponding governance body. At the same time, community members also have the right to monitor and evaluate to ensure the transparency and execution of governance decisions.
 
-通过以上的治理机制，NIUBI 代币赋予社区成员参与决策的权力，并确保决策的合理性、民主性和透明度。社区成员可以通过提案、投票和讨论来塑造社交 DApp 平台的发展方向，并参与到治理过程中，共同推动社区的繁荣和进步。
+5. Governance upgrade and development: The governance mechanism should be flexible and scalable to adapt to the changing and development needs of the community. Regular governance upgrades and improvements can be driven through community voting or other mechanisms, ensuring token holders have influence over the direction of the platform.
 
-四：技术实施
+Through the above governance mechanism, NIUBI tokens empower community members to participate in decision-making and ensure the rationality, democracy and transparency of decision-making. Community members can shape the development direction of the social DApp platform through proposals, voting and discussions, and participate in the governance process to jointly promote the prosperity and progress of the community.
 
-为了支持NIUBI代币的安全性、可扩展性和去中心化特性，社交DApp采用了以下关键技术实施：
+Four: Technology implementation
 
-1. 区块链平台：社交DApp建立在一种可信的分布式账本技术上，如以太坊或其他适合的区块链平台。区块链提供了去中心化的环境，确保交易和数据的透明性和安全性。
+In order to support the security, scalability and decentralization of NB tokens, social DApps are implemented using the following key technologies:
 
-2. 智能合约：NIUBI代币的功能和规则由智能合约来定义和执行。智能合约是在区块链上运行的自动化程序，可以确保代币的正确发行、转移和治理操作的执行。智能合约还实现了代币的分发和奖励机制，确保公正和透明。
+1. Blockchain platform: Social DApp is built on a trusted distributed ledger technology, such as Ethereum or other suitable blockchain platforms. Blockchain provides a decentralized environment, ensuring the transparency and security of transactions and data.
 
-3. 代币标准：NIUBI代币遵循通用的代币标准，如ERC-20或ERC-721。这些标准定义了代币的基本属性和接口，确保代币的互操作性和兼容性。代币标准还提供了一些常用的功能，如代币转移、余额查询和事件通知等。
+2. Smart contracts: The functions and rules of NB tokens are defined and executed by smart contracts. Smart contracts are automated programs that run on the blockchain to ensure the correct issuance, transfer and execution of governance operations of tokens. Smart contracts also implement token distribution and reward mechanisms to ensure fairness and transparency.
 
-4. 用户钱包：为了使用户能够安全地持有和管理NIUBI代币，社交DApp需要支持用户钱包。用户钱包可以是基于区块链的本地钱包或在线钱包，用于存储代币、进行交易和参与治理。
+3. Token standards: NB tokens follow common token standards, such as ERC-20 or ERC-721. These standards define the basic properties and interfaces of tokens, ensuring the interoperability and compatibility of tokens. Token Standard also provides some commonly used functions, such as token transfer, balance inquiry and event notification, etc.
 
-5. 安全性和防护措施：为了保护用户的资产和数据安全，社交DApp采取了一系列安全性和防护措施。这包括加密通信、身份验证、审计机制、防止欺诈和攻击的安全策略等。
+4. User wallet: In order for users to safely hold and manage NB tokens, social DApps need to support user wallets. User wallets can be blockchain-based local wallets or online wallets for storing tokens, conducting transactions, and participating in governance.
 
-6. 可扩展性和性能优化：社交DApp需要考虑可扩展性和性能优化，以确保在高负载和大规模用户参与的情况下仍能提供良好的用户体验。这可能涉及使用分层技术、缓存机制、扩展方案等。
+5. Security and protection measures: In order to protect users' assets and data security, social DApps have adopted a series of security and protection measures. This includes encrypted communications, authentication, audit mechanisms, security policies to prevent fraud and attacks, and more.
 
-通过以上的技术实施，NIUBI代币的社交DApp能够提供安全、高效和用户友好的体验。这些技术保障了代币的安全性、交易的可靠性，并确保社区成员能够方便地参与到代币的持有、使用和治理中。
+6. Scalability and performance optimization: Social DApps need to consider scalability and performance optimization to ensure that they can still provide a good user experience under high load and large-scale user participation. This may involve the use of layering techniques, caching mechanisms, scaling schemes, etc.
 
+Through the above technical implementation, the social DApp of NB token can provide a safe, efficient and user-friendly experience. These technologies ensure the security of tokens, the reliability of transactions, and ensure that community members can easily participate in the holding, use and governance of tokens.
 
-五：发展路线图
+Five: Development Roadmap
 
-NIUBI代币项目的发展路线图是为了指导社交DApp平台的持续发展和增长，并提供一个清晰的规划和方向。以下是NIUBI代币项目的发展路线图的一些关键阶段和计划：
+The development roadmap of the NB token project is to guide the continuous development and growth of the social DApp platform and provide a clear plan and direction. Below are some key stages and plans for the development roadmap of the NB token project:
 
-1. 阶段一：平台搭建和代币发行
-- 搭建社交DApp平台的基础架构和用户界面。
-- 进行代币的合约开发和发布。
-- 进行初期的市场推广和用户招募。
+1. Phase 1: Platform construction and token issuance
+- Build the infrastructure and user interface of the social DApp platform.
+- Conduct contract development and release of tokens.
+- Carry out initial marketing and user recruitment.
 
-2. 阶段二：功能丰富和用户增长
-- 添加更多的功能和交互特性，以提升用户体验和吸引力。
-- 扩大用户基础，通过市场推广、社交媒体营销和合作伙伴关系等手段增加用户数量。
+2. Phase 2: Feature enrichment and user growth
+- Add more functions and interactive features to improve user experience and attractiveness.
+- Expand the user base and increase the number of users through marketing, social media marketing and partnerships.
 
-3. 阶段三：社区治理和参与增强
-- 引入治理机制，使代币持有者能够参与社区决策和治理过程。
-- 提供更多的社区参与机会，如举办线上线下活动、举办竞赛和奖励计划等。
+3. Phase Three: Enhanced Community Governance and Participation
+- Introducing a governance mechanism that enables token holders to participate in community decision-making and governance processes.
+- Provide more opportunities for community participation, such as hosting online and offline events, organizing competitions and reward programs, etc.
 
-4. 阶段四：生态系统扩展和合作伙伴关系
-- 探索与其他项目和平台的合作伙伴关系，以促进生态系统的扩大和互相受益。
-- 支持与其他项目的互操作性，如跨链交互、资产互换等。
+4. Phase Four: Ecosystem Expansion and Partnerships
+- Explore partnerships with other projects and platforms to facilitate ecosystem expansion and mutual benefit.
+- Support interoperability with other projects, such as cross-chain interaction, asset swap, etc.
 
-5. 阶段五：社交DApp生态的持续发展
-- 持续改进和优化社交DApp平台的功能和性能。
-- 不断扩大用户基础，并加强社区参与和治理的力度。
-- 寻求新的增长机会和创新，保持与市场的步调和用户需求的同步。
+5. Stage five: the sustainable development of social DApp ecology
+- Continuously improve and optimize the functions and performance of the social DApp platform.
+- Continuously expand user base and strengthen community participation and governance.
+- Seeking new growth opportunities and innovations, keeping pace with the pace of the market and user needs.
 
-该发展路线图仅供参考，实际的发展计划会根据市场需求、技术进展和社区反馈等因素进行调整和优化。NIUBI代币项目的成功将依赖于团队的执行能力、用户反馈的整合以及不断的创新和改进。通过遵循发展路线图，NIUBI代币项目将不断进步，并构建一个繁荣和可持续发展的社交DApp生态系统
+This development roadmap is for reference only, and the actual development plan will be adjusted and optimized based on factors such as market demand, technological progress, and community feedback. The success of the NB token project will depend on the team's ability to execute, the integration of user feedback, and continuous innovation and improvement. By following the development roadmap, the NB token project will continue to progress and build a prosperous and sustainable social DApp ecosystem
